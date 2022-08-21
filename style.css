@@ -1,0 +1,28 @@
+
+
+* {
+    box-sizing: border-box;
+}
+
+.picture img{
+  
+   border: 2px solid rgb(151, 41, 41);
+   width: 480px;
+   height: 400px;
+  object-fit: cover;
+
+}
+
+.writing{
+     background-color: white:
+}
+
+.writing h1 {
+background-color: black;
+color: white;
+
+}
+
+
+
+
